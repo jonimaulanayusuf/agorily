@@ -1,4 +1,5 @@
-# Agorily
+# <img width="41" height="33" alt="logo" src="https://github.com/user-attachments/assets/781624b3-fcba-4758-9b4f-98c8225da95f" /> Agorily
+
 
 Agorily is an e-commerce platform designed to deliver a modern, fast, and responsive shopping experience, with a clean UI, mobile-first design, and performance-driven architecture.
 
@@ -21,7 +22,9 @@ Agorily adopts a design concept that emphasizes:
 - Neutral color palette with contrasting accents
 - Reusable and scalable components
 
-### Design Preview (Concept)
+### Design Preview (Figma UI/UX Concept)
+
+<img width="1318" height="927" alt="design-preview" src="https://github.com/user-attachments/assets/79cbad9c-251e-40f9-a2b0-0f1038b7c792" />
 
 > **Note:** The following image represents an early design concept and may change as development progresses.
 
