@@ -1,4 +1,3 @@
-import TopNav from "@/components/TopNav";
 import { numberToArray } from "@/utils/array";
 import Image from "next/image";
 import Link from "next/link";
